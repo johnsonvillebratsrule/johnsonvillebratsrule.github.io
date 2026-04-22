@@ -1,12 +1,17 @@
 ---
-title: Welcome to Your New Site
-description: This sample post shows how to publish content on Pirate Social.
+title: Enter the Stank!
+description: |-
+  #FuckFatHitler
+  #ReleaseThe EpsteinPedographs
+  #pedograph
 pubDate: 2026-04-21T12:00:00.000Z
+image: 1776796597685.png
+imageAlt: Burn in, burn out. Sabroso!
 tags:
   - welcome
   - sample
 draft: false
-visibility: site
+visibility: social
 ---
 This is a **sample post** included in the default template.
 
